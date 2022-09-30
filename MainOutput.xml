@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<tokens>
+ <keyword> class </keyword>
+ <symbol> { </symbol>
+ <keyword> function </keyword>
+ <keyword> void </keyword>
+ <identifier> main </identifier>
+ <symbol> ( </symbol>
+ <symbol> ) </symbol>
+ <symbol> { </symbol>
+ <keyword> var </keyword>
+ <identifier> Array </identifier>
+ <identifier> a </identifier>
+ <symbol> ; </symbol>
+ <keyword> var </keyword>
+ <keyword> int </keyword>
+ <identifier> length </identifier>
+ <symbol> ; </symbol>
+ <keyword> int </keyword>
+ <identifier> i </identifier>
+ <symbol> , </symbol>
+ <identifier> sum </identifier>
+ <symbol> ; </symbol>
+ <symbol> = </symbol>
+ <identifier> Keyboard </identifier>
+ <symbol> . </symbol>
+ <symbol> ( </symbol>
+ <stringConstant> HOW MANY NUMBERS?  </stringConstant>
+ <identifier> MANY </identifier>
+ <stringConstant> );
+ </stringConstant>
+ <symbol> = </symbol>
+ <identifier> Array </identifier>
+ <symbol> . </symbol>
+ <symbol> ( </symbol>
+ <symbol> ) </symbol>
+ <symbol> ; </symbol>
+ <symbol> = </symbol>
+ <integerConstant> 0 </integerConstant>
+ <symbol> ; </symbol>
+ <symbol> ( </symbol>
+ <symbol> &lt; </symbol>
+ <identifier> length </identifier>
+ <symbol> ) </symbol>
+ <symbol> { </symbol>
+ <keyword> let </keyword>
+ <identifier> a </identifier>
+ <symbol> [ </symbol>
+ <symbol> ] </symbol>
+ <symbol> = </symbol>
+ <identifier> Keyboard </identifier>
+ <symbol> . </symbol>
+ <symbol> ( </symbol>
+ <stringConstant> ENTER THE NEXT NUMBER:  </stringConstant>
+ <identifier> THE </identifier>
+ <identifier> NEXT </identifier>
+ <stringConstant> );
+ </stringConstant>
+ <keyword> let </keyword>
+ <symbol> = </symbol>
+ <symbol> + </symbol>
+ <integerConstant> 1 </integerConstant>
+ <symbol> ; </symbol>
+ <symbol> } </symbol>
+ <symbol> = </symbol>
+ <integerConstant> 0 </integerConstant>
+ <symbol> ; </symbol>
+ <symbol> = </symbol>
+ <integerConstant> 0 </integerConstant>
+ <symbol> ; </symbol>
+ <symbol> ( </symbol>
+ <symbol> &lt; </symbol>
+ <identifier> length </identifier>
+ <symbol> ) </symbol>
+ <symbol> { </symbol>
+ <keyword> let </keyword>
+ <symbol> = </symbol>
+ <symbol> + </symbol>
+ <identifier> a </identifier>
+ <symbol> [ </symbol>
+ <symbol> ] </symbol>
+ <symbol> ; </symbol>
+ <keyword> let </keyword>
+ <symbol> = </symbol>
+ <symbol> + </symbol>
+ <integerConstant> 1 </integerConstant>
+ <symbol> ; </symbol>
+ <symbol> } </symbol>
+ <identifier> Output </identifier>
+ <symbol> . </symbol>
+ <symbol> ( </symbol>
+ <stringConstant> THE AVERAGE IS:  </stringConstant>
+ <identifier> AVERAGE </identifier>
+ <stringConstant> );
+ </stringConstant>
+ <identifier> Output </identifier>
+ <symbol> . </symbol>
+ <symbol> ( </symbol>
+ <symbol> / </symbol>
+ <identifier> length </identifier>
+ <symbol> ) </symbol>
+ <symbol> ; </symbol>
+ <identifier> Output </identifier>
+ <symbol> . </symbol>
+ <symbol> ( </symbol>
+ <symbol> ) </symbol>
+ <symbol> ; </symbol>
+ <symbol> ; </symbol>
+ <symbol> } </symbol>
+ <symbol> } </symbol>
+</tokens>
