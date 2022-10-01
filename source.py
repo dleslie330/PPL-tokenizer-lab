@@ -21,6 +21,7 @@ def driver():
     keywords = {"class", "constructor", "method", "function", "int", "boolean", "char", "void", "var", "static", "field", "let", "do", "if", "else", "while", "return", "true", "flase", "null", "this"}
     symbols = {'(', ')', '[', ']', '{', '}', ',', ';', '=', '.', '+', '-', '*', '/', '&', '|', '~', '<', '>'}
     flag = False
+    skip = 0
 
     with open(read) as f:
             lines = f.readlines()
@@ -32,7 +33,10 @@ def driver():
 
                 token = ''
                 for i in range(len(line)):
-                    if (line[i] == '/' and line[i + 1] == '/'):
+                    if (skip > 0):
+                        skip = skip - 1
+                        continue
+                    elif (line[i] == '/' and line[i + 1] == '/'):
                         break
                     elif(line[i] == '/' and line[i + 1] == '*'):
                         #flag = True
@@ -44,11 +48,8 @@ def driver():
                             token = token + line[j]
                             j = j + 1
                         add(output, "stringConstant", token)
+                        skip = len(token) + 1
                         token = ''
-                        if (j + 1 >= len(line)):
-                            break
-                        else:
-                            i = j + 1
                     elif (line[i] in symbols):
                         token = line[i]
                         add(output, "symbol", token)
@@ -62,7 +63,7 @@ def driver():
                             add(output, "keyword", token)
                         elif (token.isnumeric()):
                             add(output, "integerConstant", token)
-                        elif ((token[0] == '_' or token[0].isalpha()) and token.isalnum()):
+                        elif ((token[0] == '_' or token[0].isalpha()) and (token[1:-1].isalnum() or len(token) == 1)):
                             add(output, "identifier", token)
                         token = ''
                     if (i < len(line) and line[i] != ' '):

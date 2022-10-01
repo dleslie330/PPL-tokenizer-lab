@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <tokens>
  <keyword> class </keyword>
+ <identifier> Main  </identifier>
  <symbol> { </symbol>
  <keyword> function </keyword>
  <keyword> void </keyword>
@@ -21,14 +22,14 @@
  <symbol> , </symbol>
  <identifier> sum </identifier>
  <symbol> ; </symbol>
+ <identifier> length  </identifier>
  <symbol> = </symbol>
  <identifier> Keyboard </identifier>
  <symbol> . </symbol>
  <symbol> ( </symbol>
  <stringConstant> HOW MANY NUMBERS?  </stringConstant>
- <identifier> MANY </identifier>
- <stringConstant> );
- </stringConstant>
+ <symbol> ) </symbol>
+ <symbol> ; </symbol>
  <symbol> = </symbol>
  <identifier> Array </identifier>
  <symbol> . </symbol>
@@ -52,10 +53,8 @@
  <symbol> . </symbol>
  <symbol> ( </symbol>
  <stringConstant> ENTER THE NEXT NUMBER:  </stringConstant>
- <identifier> THE </identifier>
- <identifier> NEXT </identifier>
- <stringConstant> );
- </stringConstant>
+ <symbol> ) </symbol>
+ <symbol> ; </symbol>
  <keyword> let </keyword>
  <symbol> = </symbol>
  <symbol> + </symbol>
@@ -65,6 +64,7 @@
  <symbol> = </symbol>
  <integerConstant> 0 </integerConstant>
  <symbol> ; </symbol>
+ <identifier> sum  </identifier>
  <symbol> = </symbol>
  <integerConstant> 0 </integerConstant>
  <symbol> ; </symbol>
@@ -74,7 +74,9 @@
  <symbol> ) </symbol>
  <symbol> { </symbol>
  <keyword> let </keyword>
+ <identifier> sum  </identifier>
  <symbol> = </symbol>
+ <identifier> sum  </identifier>
  <symbol> + </symbol>
  <identifier> a </identifier>
  <symbol> [ </symbol>
@@ -90,9 +92,8 @@
  <symbol> . </symbol>
  <symbol> ( </symbol>
  <stringConstant> THE AVERAGE IS:  </stringConstant>
- <identifier> AVERAGE </identifier>
- <stringConstant> );
- </stringConstant>
+ <symbol> ) </symbol>
+ <symbol> ; </symbol>
  <identifier> Output </identifier>
  <symbol> . </symbol>
  <symbol> ( </symbol>
