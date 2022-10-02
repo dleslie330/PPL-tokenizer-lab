@@ -1,1224 +1,269 @@
 <?xml version="1.0" ?>
 <tokens>
- <integerConstant>
-</integerConstant>
- <integerConstant>
-</integerConstant>
- <integerConstant/>
- <symbol>*</symbol>
- <integerConstant>*</integerConstant>
- <integerConstant> The</integerConstant>
- <integerConstant> SquareDance</integerConstant>
- <integerConstant> class</integerConstant>
- <integerConstant> implements</integerConstant>
- <integerConstant> the</integerConstant>
- <integerConstant> Square</integerConstant>
- <integerConstant> Dance</integerConstant>
- <symbol>.</symbol>
- <integerConstant>.
-</integerConstant>
- <integerConstant/>
- <symbol>*</symbol>
- <integerConstant>*</integerConstant>
- <integerConstant> In</integerConstant>
- <integerConstant> this</integerConstant>
- <integerConstant> game</integerConstant>
- <integerConstant> you</integerConstant>
- <integerConstant> can</integerConstant>
- <integerConstant> move</integerConstant>
- <integerConstant> a</integerConstant>
- <integerConstant> black</integerConstant>
- <integerConstant> square</integerConstant>
- <integerConstant> around</integerConstant>
- <integerConstant> the</integerConstant>
- <integerConstant> screen</integerConstant>
- <integerConstant> and
-</integerConstant>
- <integerConstant/>
- <symbol>*</symbol>
- <integerConstant>*</integerConstant>
- <integerConstant> change</integerConstant>
- <integerConstant> its</integerConstant>
- <integerConstant> size</integerConstant>
- <integerConstant> during</integerConstant>
- <integerConstant> the</integerConstant>
- <symbol>.</symbol>
- <integerConstant>.
-</integerConstant>
- <integerConstant/>
- <symbol>*</symbol>
- <integerConstant>*</integerConstant>
- <integerConstant> In</integerConstant>
- <integerConstant> the</integerConstant>
- <symbol>,</symbol>
- <integerConstant>,</integerConstant>
- <integerConstant> the</integerConstant>
- <integerConstant> square</integerConstant>
- <integerConstant> is</integerConstant>
- <integerConstant> located</integerConstant>
- <integerConstant> at</integerConstant>
- <integerConstant> the</integerConstant>
- <integerConstant> top</integerConstant>
- <integerConstant> left</integerConstant>
- <symbol>.</symbol>
- <integerConstant>.
-</integerConstant>
- <integerConstant/>
- <symbol>*</symbol>
- <integerConstant>*</integerConstant>
- <integerConstant> Use</integerConstant>
- <integerConstant> the</integerConstant>
- <integerConstant> arrow</integerConstant>
- <integerConstant> keys</integerConstant>
- <integerConstant> to</integerConstant>
- <integerConstant> move</integerConstant>
- <integerConstant> the</integerConstant>
- <symbol>.</symbol>
- <integerConstant>.
-</integerConstant>
- <integerConstant/>
- <symbol>*</symbol>
- <integerConstant>*</integerConstant>
- <integerConstant> Use</integerConstant>
- <integerConstant> 'z'</integerConstant>
- <symbol>&amp;</symbol>
- <integerConstant>&amp;</integerConstant>
- <integerConstant> 'x'</integerConstant>
- <integerConstant> to</integerConstant>
- <integerConstant> decrement</integerConstant>
- <symbol>&amp;</symbol>
- <integerConstant>&amp;</integerConstant>
- <integerConstant> increment</integerConstant>
- <integerConstant> the</integerConstant>
- <symbol>.</symbol>
- <integerConstant>.
-</integerConstant>
- <integerConstant/>
- <symbol>*</symbol>
- <integerConstant>*</integerConstant>
- <integerConstant> Use</integerConstant>
- <integerConstant> 'q'</integerConstant>
- <integerConstant> to</integerConstant>
- <symbol>.</symbol>
- <integerConstant>.
-</integerConstant>
- <integerConstant/>
- <symbol>*</symbol>
- <symbol>/</symbol>
- <integerConstant>/
-</integerConstant>
- <keyword>class</keyword>
- <integerConstant> SquareGame</integerConstant>
- <symbol>{</symbol>
- <integerConstant>{
-</integerConstant>
- <integerConstant>
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> field</integerConstant>
- <integerConstant> Square</integerConstant>
- <symbol>;</symbol>
- <integerConstant>;
-</integerConstant>
- <integerConstant>
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> field</integerConstant>
- <integerConstant> int</integerConstant>
- <symbol>;</symbol>
- <integerConstant>;</integerConstant>
- <integerConstant>
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> constructor</integerConstant>
- <integerConstant> SquareGame</integerConstant>
- <symbol>(</symbol>
- <symbol>)</symbol>
- <integerConstant>)</integerConstant>
- <symbol>{</symbol>
- <integerConstant>{
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> let</integerConstant>
- <integerConstant> square</integerConstant>
- <symbol>=</symbol>
- <integerConstant>=</integerConstant>
- <symbol>;</symbol>
- <integerConstant>;
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> let</integerConstant>
- <integerConstant> direction</integerConstant>
- <symbol>=</symbol>
- <integerConstant>=</integerConstant>
- <symbol>;</symbol>
- <integerConstant>;
-</integerConstant>
- <integerConstant>
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> return</integerConstant>
- <symbol>;</symbol>
- <integerConstant>;
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <symbol>}</symbol>
- <integerConstant>}
-</integerConstant>
- <integerConstant>
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> method</integerConstant>
- <integerConstant> void</integerConstant>
- <symbol>(</symbol>
- <symbol>)</symbol>
- <integerConstant>)</integerConstant>
- <symbol>{</symbol>
- <integerConstant>{
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> do</integerConstant>
- <symbol>.</symbol>
- <symbol>(</symbol>
- <symbol>)</symbol>
- <symbol>;</symbol>
- <integerConstant>;
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> do</integerConstant>
- <symbol>.</symbol>
- <symbol>(</symbol>
- <symbol>)</symbol>
- <symbol>;</symbol>
- <integerConstant>;
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <symbol>;</symbol>
- <integerConstant>;
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <symbol>}</symbol>
- <integerConstant>}
-</integerConstant>
- <integerConstant>
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> method</integerConstant>
- <integerConstant> void</integerConstant>
- <symbol>(</symbol>
- <symbol>)</symbol>
- <integerConstant>)</integerConstant>
- <symbol>{</symbol>
- <integerConstant>{
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> var</integerConstant>
- <integerConstant> char</integerConstant>
- <symbol>;</symbol>
- <integerConstant>;
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> var</integerConstant>
- <integerConstant> boolean</integerConstant>
- <symbol>;</symbol>
- <integerConstant>;
-</integerConstant>
- <integerConstant>
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> let</integerConstant>
- <integerConstant> exit</integerConstant>
- <symbol>=</symbol>
- <integerConstant>=</integerConstant>
- <symbol>;</symbol>
- <integerConstant>;
-</integerConstant>
- <integerConstant>
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> while</integerConstant>
- <symbol>(</symbol>
- <symbol>)</symbol>
- <integerConstant>)</integerConstant>
- <symbol>{</symbol>
- <integerConstant>{
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> while</integerConstant>
- <symbol>(</symbol>
- <symbol>)</symbol>
- <integerConstant>)</integerConstant>
- <symbol>{</symbol>
- <integerConstant>{
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> let</integerConstant>
- <integerConstant> key</integerConstant>
- <symbol>=</symbol>
- <integerConstant>=</integerConstant>
- <symbol>;</symbol>
- <integerConstant>;
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> do</integerConstant>
- <symbol>(</symbol>
- <symbol>)</symbol>
- <symbol>;</symbol>
- <integerConstant>;
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <symbol>}</symbol>
- <integerConstant>}
-</integerConstant>
- <integerConstant>
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> if</integerConstant>
- <symbol>(</symbol>
- <symbol>)</symbol>
- <integerConstant>)</integerConstant>
- <symbol>{</symbol>
- <integerConstant>{
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> let</integerConstant>
- <integerConstant> exit</integerConstant>
- <symbol>=</symbol>
- <integerConstant>=</integerConstant>
- <symbol>;</symbol>
- <integerConstant>;
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <symbol>}</symbol>
- <integerConstant>}
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> if</integerConstant>
- <symbol>(</symbol>
- <symbol>)</symbol>
- <integerConstant>)</integerConstant>
- <symbol>{</symbol>
- <integerConstant>{
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> do</integerConstant>
- <symbol>.</symbol>
- <symbol>(</symbol>
- <symbol>)</symbol>
- <symbol>;</symbol>
- <integerConstant>;
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <symbol>}</symbol>
- <integerConstant>}
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> if</integerConstant>
- <symbol>(</symbol>
- <symbol>)</symbol>
- <integerConstant>)</integerConstant>
- <symbol>{</symbol>
- <integerConstant>{
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> do</integerConstant>
- <symbol>.</symbol>
- <symbol>(</symbol>
- <symbol>)</symbol>
- <symbol>;</symbol>
- <integerConstant>;
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <symbol>}</symbol>
- <integerConstant>}
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> if</integerConstant>
- <symbol>(</symbol>
- <symbol>)</symbol>
- <integerConstant>)</integerConstant>
- <symbol>{</symbol>
- <integerConstant>{
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> let</integerConstant>
- <integerConstant> direction</integerConstant>
- <symbol>=</symbol>
- <integerConstant>=</integerConstant>
- <symbol>;</symbol>
- <integerConstant>;
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <symbol>}</symbol>
- <integerConstant>}
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> if</integerConstant>
- <symbol>(</symbol>
- <symbol>)</symbol>
- <integerConstant>)</integerConstant>
- <symbol>{</symbol>
- <integerConstant>{
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> let</integerConstant>
- <integerConstant> direction</integerConstant>
- <symbol>=</symbol>
- <integerConstant>=</integerConstant>
- <symbol>;</symbol>
- <integerConstant>;
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <symbol>}</symbol>
- <integerConstant>}
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> if</integerConstant>
- <symbol>(</symbol>
- <symbol>)</symbol>
- <integerConstant>)</integerConstant>
- <symbol>{</symbol>
- <integerConstant>{
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> let</integerConstant>
- <integerConstant> direction</integerConstant>
- <symbol>=</symbol>
- <integerConstant>=</integerConstant>
- <symbol>;</symbol>
- <integerConstant>;
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <symbol>}</symbol>
- <integerConstant>}
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> if</integerConstant>
- <symbol>(</symbol>
- <symbol>)</symbol>
- <integerConstant>)</integerConstant>
- <symbol>{</symbol>
- <integerConstant>{
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> let</integerConstant>
- <integerConstant> direction</integerConstant>
- <symbol>=</symbol>
- <integerConstant>=</integerConstant>
- <symbol>;</symbol>
- <integerConstant>;
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <symbol>}</symbol>
- <integerConstant>}
-</integerConstant>
- <integerConstant>
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> while</integerConstant>
- <symbol>(</symbol>
- <symbol>)</symbol>
- <integerConstant>)</integerConstant>
- <symbol>{</symbol>
- <integerConstant>{
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> let</integerConstant>
- <integerConstant> key</integerConstant>
- <symbol>=</symbol>
- <integerConstant>=</integerConstant>
- <symbol>;</symbol>
- <integerConstant>;
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> do</integerConstant>
- <symbol>(</symbol>
- <symbol>)</symbol>
- <symbol>;</symbol>
- <integerConstant>;
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <symbol>}</symbol>
- <integerConstant>}
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <symbol>}</symbol>
- <integerConstant>}
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> 
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <symbol>;</symbol>
- <integerConstant>;
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <symbol>}</symbol>
- <integerConstant>}
-</integerConstant>
- <integerConstant>
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> method</integerConstant>
- <integerConstant> void</integerConstant>
- <symbol>(</symbol>
- <symbol>)</symbol>
- <integerConstant>)</integerConstant>
- <symbol>{</symbol>
- <integerConstant>{
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> if</integerConstant>
- <symbol>(</symbol>
- <symbol>)</symbol>
- <integerConstant>)</integerConstant>
- <symbol>{</symbol>
- <integerConstant>{
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> do</integerConstant>
- <symbol>.</symbol>
- <symbol>(</symbol>
- <symbol>)</symbol>
- <symbol>;</symbol>
- <integerConstant>;
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <symbol>}</symbol>
- <integerConstant>}
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> if</integerConstant>
- <symbol>(</symbol>
- <symbol>)</symbol>
- <integerConstant>)</integerConstant>
- <symbol>{</symbol>
- <integerConstant>{
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> do</integerConstant>
- <symbol>.</symbol>
- <symbol>(</symbol>
- <symbol>)</symbol>
- <symbol>;</symbol>
- <integerConstant>;
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <symbol>}</symbol>
- <integerConstant>}
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> if</integerConstant>
- <symbol>(</symbol>
- <symbol>)</symbol>
- <integerConstant>)</integerConstant>
- <symbol>{</symbol>
- <integerConstant>{
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> do</integerConstant>
- <symbol>.</symbol>
- <symbol>(</symbol>
- <symbol>)</symbol>
- <symbol>;</symbol>
- <integerConstant>;
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <symbol>}</symbol>
- <integerConstant>}
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> if</integerConstant>
- <symbol>(</symbol>
- <symbol>)</symbol>
- <integerConstant>)</integerConstant>
- <symbol>{</symbol>
- <integerConstant>{
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> do</integerConstant>
- <symbol>.</symbol>
- <symbol>(</symbol>
- <symbol>)</symbol>
- <symbol>;</symbol>
- <integerConstant>;
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <symbol>}</symbol>
- <integerConstant>}
-</integerConstant>
- <integerConstant>
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> do</integerConstant>
- <symbol>.</symbol>
- <symbol>(</symbol>
- <symbol>)</symbol>
- <symbol>;</symbol>
- <integerConstant>;</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <symbol>;</symbol>
- <integerConstant>;
-</integerConstant>
- <integerConstant/>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <integerConstant> </integerConstant>
- <symbol>}</symbol>
- <integerConstant>}
-</integerConstant>
- <symbol>}</symbol>
- <integerConstant>}
-</integerConstant>
+ <keyword> class </keyword>
+ <identifier> SquareGame </identifier>
+ <symbol> { </symbol>
+ <keyword> field </keyword>
+ <identifier> Square </identifier>
+ <identifier> square </identifier>
+ <symbol> ; </symbol>
+ <keyword> field </keyword>
+ <keyword> int </keyword>
+ <identifier> direction </identifier>
+ <symbol> ; </symbol>
+ <keyword> constructor </keyword>
+ <identifier> SquareGame </identifier>
+ <identifier> new </identifier>
+ <symbol> ( </symbol>
+ <symbol> ) </symbol>
+ <symbol> { </symbol>
+ <keyword> let </keyword>
+ <identifier> square </identifier>
+ <symbol> = </symbol>
+ <identifier> square </identifier>
+ <symbol> ; </symbol>
+ <keyword> let </keyword>
+ <identifier> direction </identifier>
+ <symbol> = </symbol>
+ <identifier> direction </identifier>
+ <symbol> ; </symbol>
+ <keyword> return </keyword>
+ <identifier> square </identifier>
+ <symbol> ; </symbol>
+ <symbol> } </symbol>
+ <keyword> method </keyword>
+ <keyword> void </keyword>
+ <identifier> dispose </identifier>
+ <symbol> ( </symbol>
+ <symbol> ) </symbol>
+ <symbol> { </symbol>
+ <keyword> do </keyword>
+ <identifier> square </identifier>
+ <symbol> . </symbol>
+ <identifier> dispose </identifier>
+ <symbol> ( </symbol>
+ <symbol> ) </symbol>
+ <symbol> ; </symbol>
+ <keyword> do </keyword>
+ <identifier> Memory </identifier>
+ <symbol> . </symbol>
+ <identifier> deAlloc </identifier>
+ <symbol> ( </symbol>
+ <identifier> square </identifier>
+ <symbol> ) </symbol>
+ <symbol> ; </symbol>
+ <keyword> return </keyword>
+ <symbol> ; </symbol>
+ <symbol> } </symbol>
+ <keyword> method </keyword>
+ <keyword> void </keyword>
+ <identifier> run </identifier>
+ <symbol> ( </symbol>
+ <symbol> ) </symbol>
+ <symbol> { </symbol>
+ <keyword> var </keyword>
+ <keyword> char </keyword>
+ <identifier> key </identifier>
+ <symbol> ; </symbol>
+ <keyword> var </keyword>
+ <keyword> boolean </keyword>
+ <identifier> exit </identifier>
+ <symbol> ; </symbol>
+ <keyword> let </keyword>
+ <identifier> exit </identifier>
+ <symbol> = </symbol>
+ <identifier> key </identifier>
+ <symbol> ; </symbol>
+ <keyword> while </keyword>
+ <symbol> ( </symbol>
+ <identifier> exit </identifier>
+ <symbol> ) </symbol>
+ <symbol> { </symbol>
+ <keyword> while </keyword>
+ <symbol> ( </symbol>
+ <identifier> key </identifier>
+ <symbol> ) </symbol>
+ <symbol> { </symbol>
+ <keyword> let </keyword>
+ <identifier> key </identifier>
+ <symbol> = </symbol>
+ <identifier> key </identifier>
+ <symbol> ; </symbol>
+ <keyword> do </keyword>
+ <identifier> moveSquare </identifier>
+ <symbol> ( </symbol>
+ <symbol> ) </symbol>
+ <symbol> ; </symbol>
+ <symbol> } </symbol>
+ <keyword> if </keyword>
+ <symbol> ( </symbol>
+ <identifier> key </identifier>
+ <symbol> ) </symbol>
+ <symbol> { </symbol>
+ <keyword> let </keyword>
+ <identifier> exit </identifier>
+ <symbol> = </symbol>
+ <identifier> exit </identifier>
+ <symbol> ; </symbol>
+ <symbol> } </symbol>
+ <keyword> if </keyword>
+ <symbol> ( </symbol>
+ <identifier> key </identifier>
+ <symbol> ) </symbol>
+ <symbol> { </symbol>
+ <keyword> do </keyword>
+ <identifier> square </identifier>
+ <symbol> . </symbol>
+ <identifier> decSize </identifier>
+ <symbol> ( </symbol>
+ <symbol> ) </symbol>
+ <symbol> ; </symbol>
+ <symbol> } </symbol>
+ <keyword> if </keyword>
+ <symbol> ( </symbol>
+ <identifier> key </identifier>
+ <symbol> ) </symbol>
+ <symbol> { </symbol>
+ <keyword> do </keyword>
+ <identifier> square </identifier>
+ <symbol> . </symbol>
+ <identifier> incSize </identifier>
+ <symbol> ( </symbol>
+ <symbol> ) </symbol>
+ <symbol> ; </symbol>
+ <symbol> } </symbol>
+ <keyword> if </keyword>
+ <symbol> ( </symbol>
+ <identifier> key </identifier>
+ <symbol> ) </symbol>
+ <symbol> { </symbol>
+ <keyword> let </keyword>
+ <identifier> direction </identifier>
+ <symbol> = </symbol>
+ <identifier> exit </identifier>
+ <symbol> ; </symbol>
+ <symbol> } </symbol>
+ <keyword> if </keyword>
+ <symbol> ( </symbol>
+ <identifier> key </identifier>
+ <symbol> ) </symbol>
+ <symbol> { </symbol>
+ <keyword> let </keyword>
+ <identifier> direction </identifier>
+ <symbol> = </symbol>
+ <identifier> key </identifier>
+ <symbol> ; </symbol>
+ <symbol> } </symbol>
+ <keyword> if </keyword>
+ <symbol> ( </symbol>
+ <identifier> key </identifier>
+ <symbol> ) </symbol>
+ <symbol> { </symbol>
+ <keyword> let </keyword>
+ <identifier> direction </identifier>
+ <symbol> = </symbol>
+ <identifier> square </identifier>
+ <symbol> ; </symbol>
+ <symbol> } </symbol>
+ <keyword> if </keyword>
+ <symbol> ( </symbol>
+ <identifier> key </identifier>
+ <symbol> ) </symbol>
+ <symbol> { </symbol>
+ <keyword> let </keyword>
+ <identifier> direction </identifier>
+ <symbol> = </symbol>
+ <identifier> direction </identifier>
+ <symbol> ; </symbol>
+ <symbol> } </symbol>
+ <keyword> while </keyword>
+ <symbol> ( </symbol>
+ <identifier> key </identifier>
+ <symbol> ) </symbol>
+ <symbol> { </symbol>
+ <keyword> let </keyword>
+ <identifier> key </identifier>
+ <symbol> = </symbol>
+ <identifier> key </identifier>
+ <symbol> ; </symbol>
+ <keyword> do </keyword>
+ <identifier> moveSquare </identifier>
+ <symbol> ( </symbol>
+ <symbol> ) </symbol>
+ <symbol> ; </symbol>
+ <symbol> } </symbol>
+ <symbol> } </symbol>
+ <keyword> return </keyword>
+ <symbol> ; </symbol>
+ <symbol> } </symbol>
+ <keyword> method </keyword>
+ <keyword> void </keyword>
+ <identifier> moveSquare </identifier>
+ <symbol> ( </symbol>
+ <symbol> ) </symbol>
+ <symbol> { </symbol>
+ <keyword> if </keyword>
+ <symbol> ( </symbol>
+ <identifier> direction </identifier>
+ <symbol> ) </symbol>
+ <symbol> { </symbol>
+ <keyword> do </keyword>
+ <identifier> square </identifier>
+ <symbol> . </symbol>
+ <identifier> moveUp </identifier>
+ <symbol> ( </symbol>
+ <symbol> ) </symbol>
+ <symbol> ; </symbol>
+ <symbol> } </symbol>
+ <keyword> if </keyword>
+ <symbol> ( </symbol>
+ <identifier> direction </identifier>
+ <symbol> ) </symbol>
+ <symbol> { </symbol>
+ <keyword> do </keyword>
+ <identifier> square </identifier>
+ <symbol> . </symbol>
+ <identifier> moveDown </identifier>
+ <symbol> ( </symbol>
+ <symbol> ) </symbol>
+ <symbol> ; </symbol>
+ <symbol> } </symbol>
+ <keyword> if </keyword>
+ <symbol> ( </symbol>
+ <identifier> direction </identifier>
+ <symbol> ) </symbol>
+ <symbol> { </symbol>
+ <keyword> do </keyword>
+ <identifier> square </identifier>
+ <symbol> . </symbol>
+ <identifier> moveLeft </identifier>
+ <symbol> ( </symbol>
+ <symbol> ) </symbol>
+ <symbol> ; </symbol>
+ <symbol> } </symbol>
+ <keyword> if </keyword>
+ <symbol> ( </symbol>
+ <identifier> direction </identifier>
+ <symbol> ) </symbol>
+ <symbol> { </symbol>
+ <keyword> do </keyword>
+ <identifier> square </identifier>
+ <symbol> . </symbol>
+ <identifier> moveRight </identifier>
+ <symbol> ( </symbol>
+ <symbol> ) </symbol>
+ <symbol> ; </symbol>
+ <symbol> } </symbol>
+ <keyword> do </keyword>
+ <identifier> Sys </identifier>
+ <symbol> . </symbol>
+ <identifier> wait </identifier>
+ <symbol> ( </symbol>
+ <identifier> direction </identifier>
+ <symbol> ) </symbol>
+ <symbol> ; </symbol>
+ <keyword> return </keyword>
+ <symbol> ; </symbol>
+ <symbol> } </symbol>
+ <symbol> } </symbol>
 </tokens>
